@@ -1,0 +1,13 @@
+* {
+    background-color: #49274a;
+    color: #F8EEE7;
+}
+table * {
+    background-color: #94618e;
+    text-align: center;
+    width: 400px;
+}
+p {
+    background-color: #F4DECB;
+    color: black;
+}
